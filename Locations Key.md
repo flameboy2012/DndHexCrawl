@@ -30,10 +30,22 @@
 | [[E5 - Abandoned Fort]]          |        |
 | [[A6 - Enchanted Orchard]]       |        |
 | [[B6 - Forgotten Well]]          | Dc10   |
-| [[C6 - Lady Hallowstride Manor]] |        |
-| [[D6 - Smuggler’s Tunnel ]]      | Dc15   |
+| [[C6 - Smuggler’s Tunnel ]]      | Dc15   |
+| [[D6 - Lady Hallowstride Manor]] |        |
 | [[E6 - Spider Caves]]            | Dc12   |
 | [[A7 - Watchtower Ruins]]        |        |
 | [[B7 - Standing Stones]]         |        |
 | [[C7 - Quarry]]                  |        |
 | [[D7 - Forgotten Graveyard]]     |        |
+## Beach 
+[[Beach Random Encounters]]
+
+| Location              | Hidden |
+| --------------------- | ------ |
+| [[A8 - unkknown]]     |        |
+| [[B8 - unknown]]      |        |
+| [[C8 - unknown]]      |        |
+| [[A9 - Tome of Beha]] |        |
+| [[B9 - Pirate Camp]]  |        |
+| [[C9 - unknown]]      |        |
+|                       |        |

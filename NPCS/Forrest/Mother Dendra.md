@@ -1,4 +1,4 @@
-# 🧑 Mother Dendra, the Kindly Rootwitch
+# 🧙‍♀️ Mother Dendra, the Kindly Rootwitch
 
 > _Alias/Nickname: The Hollow Witch, Old Root, Granny Green_  
 > _Race/Class: Elf (very old) / Druid (Circle of Spores or custom Herbal Witch)_  
@@ -13,7 +13,7 @@
 
 _A quick physical description, voice notes, and dominant personality traits._
 
-- **Appearance:** A bent old woman with bark-tough skin and moss-colored robes that seem to grow from her body. Her long white hair is braided with roots and feathers. Her hut looks like a part of the forest: crooked, mushroom-covered, and half-grown into a gnarled old willow.
+- **Appearance:** A bent old woman with bark-tough skin and moss-coloured robes that seem to grow from her body. Her long white hair is braided with roots and feathers. Her hut looks like a part of the forest: crooked, mushroom-covered, and half-grown into a gnarled old willow.
     
 - **Voice/Accent:** Low, rasping, sing-songy with an odd rhythm—like wind through leaves. Often speaks in rhyme or metaphor.
     
