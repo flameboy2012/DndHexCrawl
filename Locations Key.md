@@ -45,7 +45,23 @@
 | [[A8 - unkknown]]     |        |
 | [[B8 - unknown]]      |        |
 | [[C8 - unknown]]      |        |
-| [[A9 - Tome of Beha]] |        |
+| [[A9 - Pyramid of Beha]] |        |
 | [[B9 - Pirate Camp]]  |        |
 | [[C9 - unknown]]      |        |
 |                       |        |
+## Swamp
+[[Swamp Random Encounters]]
+
+| Location                   | Hidden |
+| -------------------------- | ------ |
+| [[E7 ]]                    |        |
+| [[F7]]                     |        |
+| [[G7]]                     |        |
+| [[D8]]                     |        |
+| [[E8 - Cult of Centipede]] |        |
+| [[F8 - Tomb of Beha]]      |        |
+| [[G8]]                     |        |
+| [[D9]]                     |        |
+| [[E9]]                     |        |
+| [[F9]]                     |        |
+| [[G9]]                     |        |
