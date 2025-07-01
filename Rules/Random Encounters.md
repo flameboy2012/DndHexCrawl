@@ -7,7 +7,7 @@
 |                   | Dangerous terrain (jungles, mountains, swamps)               | -1       |
 |                   | Extremely dangerous terrain (deep wilderness, monster lairs) | -2       |
 | Time of Day       | Daytime (6 AM – 6 PM)                                        | +0       |
-|                   | Nighttime (6 PM – 6 AM)                                      | -1       |
+|                   | Nighttime (12 PM – 6 AM)                                     | -1       |
 | [[Weather]]       | Good Weather                                                 | +1       |
 |                   | Calm or clear weather                                        | +0       |
 |                   | Poor weather (fog, rain, snow, wind)                         | -1       |
