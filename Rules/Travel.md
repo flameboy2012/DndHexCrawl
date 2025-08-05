@@ -1,10 +1,8 @@
-# Travel
-
-### Base Travel Speed
+## Base Travel Speed
 
 - Walking Speed: A typical adventuring party traveling on foot covers 24 miles/day on flat, unobstructed terrain, assuming 8 hours of travel per day.
 - This equals 4 hexes/day under ideal conditions.
-### Terrain Modifiers
+## Terrain Modifiers
 
 | **Terrain Type**         | **Foot Travel Modifier** | **Mounted Travel Modifier** | **Notes**                                              |
 | ------------------------ | ------------------------ | --------------------------- | ------------------------------------------------------ |
@@ -19,7 +17,7 @@
 | Snowy Terrain            | x0.5 (2 hexes/day)       | x0.5 (3 hexes/day)          | Includes tundra and light snow.                        |
 | Deep Snow/Blizzard       | x0.25 (1 hex/day)        | x0.25 (1 hex/day)           | Requires intense effort to move.                       |
 
-### Travel Modifiers
+## Travel Modifiers
 
 1. Encumbrance:
 	- Heavily encumbered characters reduce travel speed by 25%.

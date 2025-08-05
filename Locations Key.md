@@ -1,6 +1,8 @@
+## Map
+
 ![[Hex Map.png]]
 
-### Forrest Locations
+## [[Forrest]]
 [[Forrest Random Encounters]]
 
 | Location                     | Hidden Dc |
@@ -17,7 +19,7 @@
 | [[B4 - Logging Camp]]        | -         |
 | [[C4 - Cockatrice Lair]]     | DC 15     |
 | [[D4 - Witch's Hollow]]      | -         |
-### Grassland Locations
+## [[Grassland]]
 [[Grassland Random Encounters]]
 
 | Location                         | Hidden |
@@ -37,19 +39,18 @@
 | [[B7 - Standing Stones]]         |        |
 | [[C7 - Quarry]]                  |        |
 | [[D7 - Forgotten Graveyard]]     |        |
-## Beach 
+## [[Beach]] 
 [[Beach Random Encounters]]
 
-| Location              | Hidden |
-| --------------------- | ------ |
-| [[A8 - unkknown]]     |        |
-| [[B8 - unknown]]      |        |
-| [[C8 - unknown]]      |        |
+| Location                 | Hidden |
+| ------------------------ | ------ |
+| [[A8 - unknown]]         |        |
+| [[B8 - unknown]]         |        |
+| [[C8 - unknown]]         |        |
 | [[A9 - Pyramid of Beha]] |        |
-| [[B9 - Pirate Camp]]  |        |
-| [[C9 - unknown]]      |        |
-|                       |        |
-## Swamp
+| [[B9 - Pirate Camp]]     |        |
+| [[C9 - unknown]]         |        |
+## [[Swamp]]
 [[Swamp Random Encounters]]
 
 | Location                   | Hidden |
@@ -65,3 +66,22 @@
 | [[E9]]                     |        |
 | [[F9]]                     |        |
 | [[G9]]                     |        |
+## Mountains
+[[Mountain Random Encounters]]
+
+| Location             | Hidden |
+| -------------------- | ------ |
+| E2                   |        |
+| F2                   |        |
+| G2                   |        |
+| H2                   |        |
+| [[I2 - Castle Dice]] |        |
+| E3                   |        |
+| F3                   |        |
+| G3                   |        |
+| H3                   |        |
+| I3                   |        |
+| F4                   |        |
+| H4                   |        |
+
+## Bushland
