@@ -52,3 +52,14 @@ Bio-magical labs where monstrous undead hybrids are grown—stitched from bones,
 
 ## Soul Vault
 A heavily warded chamber containing phylacteries—hers and those of lesser liches in her service—along with bound souls used for bargaining or punishment.
+
+## Secret Entrance
+A massive stone door carved into the volcanic rock.
+
+Across its face is a relief of Lady Dice holding a handful of dice (d4, 2d6, d8, d10, d12, d20) and a snake coiled around her chair
+
+Beneath it, an inscription reads:
+
+"Fate is a gamble, odds ever shifting. Tell me, mortals: which number never loses?"
+
+You can see a slot in the snakes mouth as its eyes glean towards you.
