@@ -1,0 +1,3 @@
+_Minor Location / Ruin_ A clearing containing the remnants of a logging operation — collapsed bunkhouses, a rusted sawpit, and the skeletal remains of a large wagon. The camp was abandoned suddenly judging by the tools left behind. Local rumour in Naywich dates the abandonment to about fifteen years ago, around the same time a group of loggers came back from the forest raving and were never quite right again. A logbook survives in one of the collapsed buildings, its later entries increasingly erratic.
+
+**Tags:** Ruin, mystery hook, NPC link (Naywich)

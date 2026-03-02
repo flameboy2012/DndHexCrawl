@@ -1,0 +1,3 @@
+_Wilderness Hex / Mountain Border_ The highest point within the forest biome, a bald rocky summit perpetually wreathed in low cloud. Lightning strikes here frequently during storms. A crumbling watchtower of unknown origin sits at the peak — its stonework predates anything in the region. The view from the top, on rare clear days, stretches across the entire grasslands below.
+
+**Tags:** Wilderness, mountainous, landmark, ruin, mystery hook

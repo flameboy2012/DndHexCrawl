@@ -1,0 +1,3 @@
+_Wilderness Hex / Biome Border_ The southeastern corner of the forest, where the trees are diseased and rotting. Pale fungi cover fallen trunks. The air smells of damp decay. The proximity to the river on the eastern edge has waterlogged the soil, and the ground is unreliable underfoot. An unsettling place that neither Thornshadow nor the goblins seem willing to linger in.
+
+**Tags:** Wilderness, biome border (grasslands south), hazard terrain, mystery hook

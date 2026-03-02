@@ -1,0 +1,3 @@
+_Landmark / Ranger Camp_ A carefully concealed camp nestled between three ancient oaks, identifiable only by a series of ranger trail markers carved into the bark nearby. This is the home of Thornshadow, an elven ranger who has patrolled this forest for decades. He is wary of strangers but not hostile — he trades information about the forest for news from the outside world. He keeps a close eye on the Goblin Lair to the east and has a rough map of the forest scratched onto a piece of bark.
+
+**NPC:** Thornshadow (Elf Ranger)

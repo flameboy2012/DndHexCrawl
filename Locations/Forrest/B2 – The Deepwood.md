@@ -1,0 +1,3 @@
+_Wilderness Hex_ The dense heart of the forest. Canopy so thick that little light reaches the floor. Ancient trees with trunks wider than a cart. Strange carvings mark several of the oldest trees — concentric rings and spirals similar to those on the Greywarden Stone in the grasslands below. Animals are plentiful but unnaturally quiet.
+
+**Tags:** Wilderness, mystery hook, links to A4 (The Greywarden Stone)

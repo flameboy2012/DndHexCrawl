@@ -1,0 +1,3 @@
+_Landmark / Wilderness Hex / Forest Border_ A single standing stone of grey granite, taller than a man, etched with worn spiral carvings of unknown origin. Marks the northwestern boundary of the grasslands where the treeline of the forest biome begins to press close. Rangers and druids from the forest are sometimes found here, watching the plains. Locals from Naywich treat it as a boundary marker and leave small offerings at its base.
+
+**Tags:** Landmark, biome border (forest north), mystery hook, druid/ranger presence
