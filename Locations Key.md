@@ -33,7 +33,7 @@
 | [[B5 – The Amber Road]]        | —              | —                 | —       | —          |
 | [[C5 – Naywich]]               | —              | —                 | —       | —          |
 | [[D5 – The Broke Road]]        | —              | —                 | —       | —          |
-| [[E5 – The Shattered Keep]]    | —              | —                 | ✓       | —          |
+| [[E5 – Blackfire Keep]]        | —              | —                 | ✓       | —          |
 | [[A6 – The Open Steppe]]       | —              | Dun the Shepherd  | —       | ✓          |
 | [[B6 – Brenfield Farmstead]]   | —              | Brenfield Family  | —       | —          |
 | [[C6 – Hallowstride Orchard]]  | —              | Brenfield Family  | —       | —          |
