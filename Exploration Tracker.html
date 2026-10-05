@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Exploration Tracker</title>
+<style>
+  :root {
+    --ink: #1a1a1a;
+    --muted: #9a9a9a;
+    --line: #555;
+    --boxline: #333;
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    color: var(--ink);
+    margin: 0;
+    padding: 1.5cm;
+    font-size: 13pt;
+  }
+  .page {
+    page-break-after: always;
+  }
+  .page:last-child { page-break-after: auto; }
+
+  h1.tier {
+    margin: 0 0 4px 0;
+    font-size: 22pt;
+    border-bottom: 3px solid var(--ink);
+    padding-bottom: 6px;
+  }
+  .levels {
+    color: #444;
+    font-size: 12pt;
+    margin: 0 0 18px 0;
+    letter-spacing: .5px;
+  }
+  h2.biome {
+    margin: 22px 0 8px 0;
+    font-size: 15pt;
+  }
+  table {
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 100%;
+    max-width: 720px;
+  }
+  td {
+    border: 1px solid var(--line);
+    height: 56px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 13pt;
+    font-weight: 600;
+    padding: 4px;
+  }
+  td.empty {
+    border: 1px solid #ddd;
+    background: repeating-linear-gradient(45deg, #f4f4f4, #f4f4f4 6px, #ececec 6px, #ececec 12px);
+  }
+  td.cont {
+    color: var(--muted);
+    font-weight: 400;
+    background: #fafafa;
+  }
+  .box {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    border: 2px solid var(--boxline);
+    border-radius: 3px;
+    margin-right: 7px;
+    vertical-align: -3px;
+  }
+  sup { color: #b00; font-weight: 700; }
+  .legend {
+    margin-top: 26px;
+    font-size: 10.5pt;
+    color: #444;
+    border-top: 1px solid #ccc;
+    padding-top: 8px;
+  }
+  .legend .box { width: 14px; height: 14px; border-width: 2px; margin-right: 5px; }
+  .legend span.dot { color: var(--muted); font-weight: 700; }
+
+  @page { size: A4 portrait; margin: 1.4cm; }
+  @media print {
+    body { padding: 0; }
+    * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ===================== PAGE 1 — EARLY ===================== -->
+<section class="page">
+  <h1 class="tier">Tier 1 &mdash; Early</h1>
+  <p class="levels">Target party level 1&ndash;3</p>
+
+  <h2 class="biome">Grassland</h2>
+  <table>
+    <tr><td><span class="box"></span>A4</td><td><span class="box"></span>B4</td><td><span class="box"></span>C4</td><td><span class="box"></span>D4</td><td><span class="box"></span>E4</td></tr>
+    <tr><td><span class="box"></span>A5</td><td><span class="box"></span>B5</td><td><span class="box"></span>C5</td><td><span class="box"></span>D5</td><td><span class="box"></span>E5</td></tr>
+    <tr><td><span class="box"></span>A6</td><td><span class="box"></span>B6</td><td><span class="box"></span>C6</td><td><span class="box"></span>D6</td><td><span class="box"></span>E6</td></tr>
+    <tr><td><span class="box"></span>A7</td><td><span class="box"></span>B7</td><td><span class="box"></span>C7</td><td><span class="box"></span>D7</td><td class="empty"></td></tr>
+  </table>
+
+  <h2 class="biome">Forest</h2>
+  <table>
+    <tr><td class="cont">&#9702; A1</td><td class="cont">&#9702; B1</td><td class="cont">&#9702; C1</td><td><span class="box"></span>D1 <sup>&dagger;</sup></td></tr>
+    <tr><td><span class="box"></span>A2</td><td><span class="box"></span>B2</td><td><span class="box"></span>C2</td><td><span class="box"></span>D2</td></tr>
+    <tr><td><span class="box"></span>A3</td><td><span class="box"></span>B3</td><td><span class="box"></span>C3</td><td><span class="box"></span>D3</td></tr>
+  </table>
+
+  <p class="legend">
+    <span class="box"></span> tick when explored &nbsp;&middot;&nbsp;
+    <span class="dot">&#9702;</span> boundary hex (no XP) &nbsp;&middot;&nbsp;
+    <sup>&dagger;</sup> D1 scores at the <strong>Late-tier notable value (1,000 XP)</strong>, not the Forest value.
+  </p>
+</section>
+
+<!-- ===================== PAGE 2 — MID ===================== -->
+<section class="page">
+  <h1 class="tier">Tier 2 &mdash; Mid</h1>
+  <p class="levels">Target party level 4&ndash;6</p>
+
+  <h2 class="biome">Oasis</h2>
+  <table style="max-width:432px">
+    <tr><td><span class="box"></span>A8</td><td><span class="box"></span>B8</td><td><span class="box"></span>C8</td></tr>
+    <tr><td><span class="box"></span>A9</td><td><span class="box"></span>B9</td><td><span class="box"></span>C9</td></tr>
+    <tr><td class="cont">&#9702; A10</td><td class="cont">&#9702; B10</td><td class="cont">&#9702; C10</td></tr>
+  </table>
+
+  <h2 class="biome">Swamp</h2>
+  <table style="max-width:576px">
+    <tr><td class="empty"></td><td><span class="box"></span>E7</td><td><span class="box"></span>F7</td><td><span class="box"></span>G7</td></tr>
+    <tr><td><span class="box"></span>D8</td><td><span class="box"></span>E8</td><td><span class="box"></span>F8</td><td><span class="box"></span>G8</td></tr>
+    <tr><td><span class="box"></span>D9</td><td><span class="box"></span>E9</td><td><span class="box"></span>F9</td><td><span class="box"></span>G9</td></tr>
+  </table>
+
+  <h2 class="biome">Bushland</h2>
+  <table>
+    <tr><td class="empty"></td><td><span class="box"></span>G4</td><td class="empty"></td><td><span class="box"></span>I4</td><td><span class="box"></span>J4</td></tr>
+    <tr><td><span class="box"></span>F5</td><td><span class="box"></span>G5</td><td><span class="box"></span>H5</td><td><span class="box"></span>I5</td><td><span class="box"></span>J5</td></tr>
+    <tr><td><span class="box"></span>F6</td><td><span class="box"></span>G6</td><td><span class="box"></span>H6</td><td><span class="box"></span>I6</td><td><span class="box"></span>J6</td></tr>
+    <tr><td class="empty"></td><td class="empty"></td><td><span class="box"></span>H7</td><td><span class="box"></span>I7</td><td><span class="box"></span>J7</td></tr>
+    <tr><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td><span class="box"></span>J8</td></tr>
+  </table>
+
+  <p class="legend">
+    <span class="box"></span> tick when explored &nbsp;&middot;&nbsp;
+    <span class="dot">&#9702;</span> boundary hex (no XP)
+  </p>
+</section>
+
+<!-- ===================== PAGE 3 — LATE ===================== -->
+<section class="page">
+  <h1 class="tier">Tier 3 &mdash; Late</h1>
+  <p class="levels">Target party level 7&ndash;9</p>
+
+  <h2 class="biome">Jungle</h2>
+  <table style="max-width:432px">
+    <tr><td><span class="box"></span>H8</td><td><span class="box"></span>I8</td><td class="empty"></td></tr>
+    <tr><td><span class="box"></span>H9</td><td><span class="box"></span>I9</td><td><span class="box"></span>J9</td></tr>
+  </table>
+
+  <h2 class="biome">Tundra</h2>
+  <table>
+    <tr><td class="cont">&#9702; E1</td><td class="cont">&#9702; F1</td><td class="cont">&#9702; G1</td><td class="cont">&#9702; H1</td><td class="cont">&#9702; I1</td><td class="cont">&#9702; J1</td></tr>
+    <tr><td><span class="box"></span>E2</td><td><span class="box"></span>F2</td><td><span class="box"></span>G2</td><td><span class="box"></span>H2</td><td><span class="box"></span>I2</td><td><span class="box"></span>J2</td></tr>
+    <tr><td><span class="box"></span>E3</td><td><span class="box"></span>F3</td><td><span class="box"></span>G3</td><td><span class="box"></span>H3</td><td><span class="box"></span>I3</td><td><span class="box"></span>J3</td></tr>
+    <tr><td class="empty"></td><td><span class="box"></span>F4</td><td class="empty"></td><td><span class="box"></span>H4</td><td class="empty"></td><td class="empty"></td></tr>
+  </table>
+
+  <p class="legend">
+    <span class="box"></span> tick when explored &nbsp;&middot;&nbsp;
+    <span class="dot">&#9702;</span> boundary hex (no XP) &nbsp;&middot;&nbsp;
+    Don't forget <strong>D1</strong> (Forest) also belongs to this tier.
+  </p>
+</section>
+
+</body>
+</html>

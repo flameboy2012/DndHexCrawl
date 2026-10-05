@@ -2,47 +2,51 @@
 
 ![[Hex Map.png]]
 
+[[Exploration XP]]
+
 ## Forrest
 [[Forrest Random Encounters]]
 
-| Hex & Title                         | Biome Border       | NPC           | Dungeon | Wilderness |
-| ----------------------------------- | ------------------ | ------------- | ------- | ---------- |
-| [[A1 – The Granite Peaks]]          | Mountain (north)   | —             | —       | ✓          |
-| [[B1 – The Ironspine Ridge]]        | Mountain (north)   | —             | —       | ✓          |
-| [[C1 – The Stormcrown]]             | Mountain (north)   | —             | —       | ✓          |
-| [[D1 – Jiaolong's Lair]]            | Mountain (north)   | Jiaolong      | ✓       | —          |
-| [[A2 – Thornshade Camp]]            | —                  | Thornshadow   | —       | —          |
-| [[B2 – The Deepwood]]               | —                  | —             | —       | ✓          |
-| [[C2 – The Goblin Lair]]            | —                  | Skull Splitta | ✓       | —          |
-| [[D2 – The Sunken Vault]]           | —                  | —             | ✓       | —          |
-| [[A3 – The Logging Trail]]          | Grasslands (south) | —             | —       | —          |
-| [[B3 – The Abandoned Logging Camp]] | Grasslands (south) | —             | —       | —          |
-| [[C3 – The Briarwall]]              | Grasslands (south) | —             | —       | ✓          |
-| [[D3 – The Rotwood]]                | Grasslands (south) | —             | —       | ✓          |
+| Hex & Title                         | Biome Border       | NPC           | Dungeon | Wilderness | Notable (2× XP) |
+| ----------------------------------- | ------------------ | ------------- | ------- | ---------- | --------------- |
+| [[A1 – The Granite Peaks]]          | Mountain (north)   | —             | —       | ✓          | —               |
+| [[B1 – The Ironspine Ridge]]        | Mountain (north)   | —             | —       | ✓          | —               |
+| [[C1 – The Stormcrown]]             | Mountain (north)   | —             | —       | ✓          | —               |
+| [[D1 – Jiaolong's Lair]]            | Mountain (north)   | Jiaolong      | ✓       | —          | ✓ *             |
+| [[A2 – Thornshade Camp]]            | —                  | Thornshadow   | —       | —          | —               |
+| [[B2 – The Deepwood]]               | —                  | —             | —       | ✓          | —               |
+| [[C2 – The Goblin Lair]]            | —                  | Skull Splitta | ✓       | —          | ✓               |
+| [[D2 – The Sunken Vault]]           | —                  | —             | ✓       | —          | ✓               |
+| [[A3 – The Logging Trail]]          | Grasslands (south) | —             | —       | —          | —               |
+| [[B3 – The Abandoned Logging Camp]] | Grasslands (south) | —             | —       | —          | —               |
+| [[C3 – The Briarwall]]              | Grasslands (south) | —             | —       | ✓          | —               |
+| [[D3 – The Rotwood]]                | Grasslands (south) | —             | —       | ✓          | —               |
+
+*\* D1 is notable, but as a dragon lair it scores at the **Late-tier value (1,000 XP)**, not the Forest value. See [[Exploration XP]].*
 ## Grassland
 [[Grassland Random Encounters]]
 
-| Hex & Title                    | Biome Border   | NPC               | Dungeon | Wilderness |
-| ------------------------------ | -------------- | ----------------- | ------- | ---------- |
-| [[A4 – The Greywarden Stone]]  | Forest (north) | —                 | —       | ✓          |
-| [[B4 – The North Meadow]]      | Forest (north) | —                 | —       | ✓          |
-| [[C4 – The Woodedge Trail]]    | Forest (north) | —                 | —       | —          |
-| [[D4 – The Crow's Barrow]]     | —              | —                 | ✓       | —          |
-| [[E4 – Mother Dendra's Hovel]] | —              | [[Mother Dendra]] | —       | —          |
-| [[A5 – Westmill Windmill]]     | —              | Oswin Thatch      | —       | —          |
-| [[B5 – The Amber Road]]        | —              | —                 | —       | —          |
-| [[C5 – Naywich]]               | —              | —                 | —       | —          |
-| [[D5 – The Broke Road]]        | —              | —                 | —       | —          |
-| [[E5 – Blackfire Keep]]        | —              | —                 | ✓       | —          |
-| [[A6 – The Open Steppe]]       | —              | Dun the Shepherd  | —       | ✓          |
-| [[B6 – Brenfield Farmstead]]   | —              | Brenfield Family  | —       | —          |
-| [[C6 – Hallowstride Orchard]]  | —              | Brenfield Family  | —       | —          |
-| [[D6 – Hallowstride Manor]]    | —              | Lady Hallowstride | ✓       | —          |
-| [[E6 – The Mudflats]]          | —              | —                 | —       | ✓          |
-| [[A7 – The Southern Reach]]    | Oasis (south)  | —                 | —       | ✓          |
-| [[B7 – The Dusty Fringe]]      | Oasis (south)  | —                 | —       | ✓          |
-| [[C7 – The Sandgrass Flats]]   | Oasis (south)  | —                 | —       | ✓          |
-| [[D7 – The Seeping Margin]]    | Swamp (east)   | —                 | —       | ✓          |
+| Hex & Title                    | Biome Border   | NPC               | Dungeon | Wilderness | Notable (2× XP) |
+| ------------------------------ | -------------- | ----------------- | ------- | ---------- | --------------- |
+| [[A4 – The Greywarden Stone]]  | Forest (north) | —                 | —       | ✓          | —               |
+| [[B4 – The North Meadow]]      | Forest (north) | —                 | —       | ✓          | —               |
+| [[C4 – The Woodedge Trail]]    | Forest (north) | —                 | —       | —          | —               |
+| [[D4 – The Crow's Barrow]]     | —              | —                 | ✓       | —          | ✓               |
+| [[E4 – Mother Dendra's Hovel]] | —              | [[Mother Dendra]] | —       | —          | —               |
+| [[A5 – Westmill Windmill]]     | —              | Oswin Thatch      | —       | —          | —               |
+| [[B5 – The Amber Road]]        | —              | —                 | —       | —          | —               |
+| [[C5 – Naywich]]               | —              | —                 | —       | —          | —               |
+| [[D5 – The Broke Road]]        | —              | —                 | —       | —          | —               |
+| [[E5 – Blackfire Keep]]        | —              | —                 | ✓       | —          | ✓               |
+| [[A6 – The Open Steppe]]       | —              | Dun the Shepherd  | —       | ✓          | —               |
+| [[B6 – Brenfield Farmstead]]   | —              | Brenfield Family  | —       | —          | —               |
+| [[C6 – Hallowstride Orchard]]  | —              | Brenfield Family  | —       | —          | —               |
+| [[D6 – Hallowstride Manor]]    | —              | Lady Hallowstride | —       | —          | —               |
+| [[E6 – The Mudflats]]          | —              | —                 | —       | ✓          | —               |
+| [[A7 – The Southern Reach]]    | Oasis (south)  | —                 | —       | ✓          | —               |
+| [[B7 – The Dusty Fringe]]      | Oasis (south)  | —                 | —       | ✓          | —               |
+| [[C7 – The Sandgrass Flats]]   | Oasis (south)  | —                 | —       | ✓          | —               |
+| [[D7 – The Seeping Margin]]    | Swamp (east)   | —                 | —       | ✓          | —               |
 ## Oasis 
 [[Beach Random Encounters]]
 
