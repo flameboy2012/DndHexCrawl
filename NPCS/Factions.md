@@ -1,10 +1,20 @@
+Factions competing for [[Beha]]'s artifacts: the [[Rod of Beha]] and the [[Tome of Beha]].
 
-| Faction                             | What they want the Tome for                                    | Why do this is bad                                                       |
-| ----------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| Lady Dice - Lich                    | Wants to restore Soul, while keeping Lich powers               | powerful and immortal creature running about. able to ascend to godhood. |
-| Baram, Keeper of Dragons - War god  | Secure hold over Dragons, perminantly binding them to his will | Use dragons to go on warpath. lots of murder                             |
-| Jiaolong - River Dragon             | Break free of Baram's hold.                                    | Dragons free to do what they want. Very uperty over being enslaved       |
-| Lady Hallowstride - Vampire Lord    | Remove Limitations of Vampirism for all vampires               | bunch of vampires running around doing whatever they want                |
-| Nellye, The Sidhe Queen - Fey queen | Break down barrier between Fey world and normal world          | Fey Creatures everywhere, upset natural order                            |
-| Pirate Captain Szolshassih          | Revive fallen Undergod (hound like god of the underworld)      | unchecked god running about                                              |
-| Drongo - Bush wizard                | Uncap magic                                                    | rampant magic                                                            |
+| Faction                                | Wants        | Why                                                         | What they know                                       |
+| -------------------------------------- | ------------ | ----------------------------------------------------------- | ---------------------------------------------------- |
+| [[Beha]] (fragment in the rod)         | Rod & Tome   | Possess a vessel, resurrect himself and resume his godhood bid | Everything                                           |
+| [[Captain Szolsassih]] - Yuan-ti pirates | Rod          | Ancestral artifact linked to their past                     | Fragments and rumours only                           |
+| Queen Nellye, the Sidhe Queen          | Tome         | Prevent any future challenge to the gods                    | Was there when Beha fell — she was his target        |
+| [[Lady Dice]] - Lich                   | Tome, then Rod | Beha's knowledge and power to expand her frozen domain    | The history of the land and its rumours              |
+| Lady Hallowstride - Vampire Lord       | Rod          | Control it so no one can use it against her                 | Rumours only                                         |
+
+## Queen Nellye, the Sidhe Queen
+Fey queen and nature god. Beha tried to slay her and steal her power for his ascension. She remembers it personally, and wants the tome so no one can ever attempt it again.
+
+## Other Key Players
+- **Drongo - Bush wizard.** The only one who has pieced together that the artifact is a **rod**, not a staff. Valuable to every faction if they learn what he knows.
+- **Baram, Keeper of Dragons.** The god who struck Beha down with his dragon flight. All dragons are his, but his presence in the world is reduced.
+- **Jiaolong - River Dragon.** Lives in the river through the middle of the map ([[D1 – Jiaolong's Lair]]). One of Baram's dragons, and Baram's closest presence in the region.
+
+## Who Learns the Party Has the Rod?
+Left open — whoever the party brags to first.

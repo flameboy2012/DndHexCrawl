@@ -1,0 +1,42 @@
+_Yuan-ti Wizard King / Would-be God / Main Antagonist (dormant)_
+
+## History
+
+Over two thousand years ago, Beha was a yuan-ti wizard who ruled the entire region the party now explores. Back then the whole land was sandy oasis. His personal mark is a **serpent devouring its own tail**, and fragments of his kingdom are scattered throughout the region (see [[#Hints of the Kingdom]]).
+
+Beha was so powerful he sought to become a god. His plan was to **slay a god and steal their power**. His target was [[Factions#Queen Nellye, the Sidhe Queen|Queen Nellye]], the Sidhe Queen and nature god.
+
+He failed. **Baram, Keeper of Dragons**, descended from the heavens with his dragon flight and laid waste to the kingdom. Beha was struck down and buried, and over time the world forgot him. Today his story exists only in obscure history books and twisted rumours.
+
+### The Survivors
+Some of his yuan-ti followers fled and survived; any that stayed were killed. Their descendants are the pirates under [[Captain Szolsassih]], who remember only fragments of what happened.
+
+## Beha's Contingency
+
+Beha prepared for failure:
+- **The seals.** He placed magical seals over his own corpse so no one could tamper with his body should he fall. The corpse lies in the [[F8 - Tomb of Beha|Tomb of Beha]].
+- **The fragment.** He hid a fragment of his consciousness inside his **Rod**. See [[Rod of Beha]].
+
+## What Beha Wants Now
+
+The fragment in the rod wants **possession**: to take over the body of whoever is attuned to the rod, then use the [[Tome of Beha|Tome]] to complete the ascension ritual and resume his bid for godhood.
+
+It is patient. Like the One Ring, it bides its time:
+- It is **helpful** to whoever carries it — offering advice, knowledge and power — to earn trust.
+- The rod and tome are **drawn to each other**. Over time, events conspire to bring them together.
+- When the attuned bearer holds both items, Beha strikes and attempts to seize their body.
+- A nobody holding both won't become a god. The vessel needs enough power to channel the ascension.
+
+## Resurrection Requirements
+1. The [[Rod of Beha]] (contains the fragment)
+2. The [[Tome of Beha]] (contains the ascension ritual)
+3. A powerful enough vessel attuned to the rod
+
+## Hints of the Kingdom
+Places where Beha's kingdom shows through:
+- [[A9 – The Pyramid of Beha]] — where the rod was kept
+- [[F8 - Tomb of Beha]] — his sealed corpse
+- [[D2 – The Sunken Vault]] — a northern expedition outpost with yuan-ti journal
+- [[I2 - Castle Dice]] — snake coiled around Lady Dice's chair in the relief
+
+_Idea (unconfirmed):_ Baram's dragons reshaped the land when they laid waste to the kingdom — frost breath forming the tundra, acid the swamp, etc. Add a serpent sigil or ruined statue to each region to seed the history.

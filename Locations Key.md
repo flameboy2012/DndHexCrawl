@@ -50,17 +50,17 @@
 ## Oasis 
 [[Beach Random Encounters]]
 
-| Hex & Title                     | Biome Border                     | NPC     | Dungeon | Wilderness |
-| ------------------------------- | -------------------------------- | ------- | ------- | ---------- |
-| [[A8 – The Sandveil Approach]]  | Grasslands (north)               | —       | —       | ✓          |
-| [[B8 – The Palm Oasis]]         | Grasslands (north)               | —       | —       | —          |
-| [[C8 – The Dune Wastes]]        | Grasslands (north), Swamp (east) | —       | —       | ✓          |
-| [[A9 – The Pyramid of Beha]]    | —                                | Beha    | ✓       | —          |
-| [[B9 – The Serpent's Market]]   | —                                | Ssavrak | —       | —          |
-| [[C9 – The Sunken Stones]]      | Swamp (east)                     | —       | —       | ✓          |
-| [[A10 – The Western Shore]]     | Sea (south)                      | —       | —       | ✓          |
-| [[B10 – The Corsair Anchorage]] | Sea (south)                      | —       | —       | —          |
-| [[C10 – The Scaleback Cliffs]]  | Sea (south), Swamp (east)        | —       | —       | ✓          |
+| Hex & Title                     | Biome Border                     | NPC                    | Dungeon | Wilderness |
+| ------------------------------- | -------------------------------- | ---------------------- | ------- | ---------- |
+| [[A8 – The Sandveil Approach]]  | Grasslands (north)               | —                      | —       | ✓          |
+| [[B8 – The Palm Oasis]]         | Grasslands (north)               | —                      | —       | —          |
+| [[C8 – The Dune Wastes]]        | Grasslands (north), Swamp (east) | —                      | —       | ✓          |
+| [[A9 – The Pyramid of Beha]]    | —                                | [[Beha]]               | ✓       | —          |
+| [[B9 – Pirate Camp]]            | —                                | [[Captain Szolsassih]] | —       | —          |
+| [[C9 – The Sunken Stones]]      | Swamp (east)                     | —                      | —       | ✓          |
+| [[A10 – The Western Shore]]     | Sea (south)                      | —                      | —       | ✓          |
+| [[B10 – The Corsair Anchorage]] | Sea (south)                      | —                      | —       | —          |
+| [[C10 – The Scaleback Cliffs]]  | Sea (south), Swamp (east)        | —                      | —       | ✓          |
 ## Swamp
 [[Swamp Random Encounters]]
 
