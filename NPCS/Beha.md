@@ -24,7 +24,7 @@ The fragment in the rod wants **possession**: to take over the body of whoever i
 It is patient. Like the One Ring, it bides its time:
 - It is **helpful** to whoever carries it — offering advice, knowledge and power — to earn trust.
 - The rod and tome are **drawn to each other**. Over time, events conspire to bring them together.
-- When the attuned bearer holds both items, Beha strikes and attempts to seize their body.
+- When the attuned bearer holds both items, Beha strikes and attempts to seize their body. [[Lady Dice]] is the perfect vessel: a powerful wizard with no soul in her body.
 - A nobody holding both won't become a god. The vessel needs enough power to channel the ascension.
 
 ## Resurrection Requirements
@@ -37,6 +37,6 @@ Places where Beha's kingdom shows through:
 - [[A9 – The Pyramid of Beha]] — where the rod was kept
 - [[F8 - Tomb of Beha]] — his sealed corpse
 - [[D2 – The Sunken Vault]] — a northern expedition outpost with yuan-ti journal
-- [[I2 - Castle Dice]] — snake coiled around Lady Dice's chair in the relief
+- [[I2 - Castle Dice]] — built atop the ruins of a temple to Beha; snake motifs throughout
 
-_Idea (unconfirmed):_ Baram's dragons reshaped the land when they laid waste to the kingdom — frost breath forming the tundra, acid the swamp, etc. Add a serpent sigil or ruined statue to each region to seed the history.
+_Idea (unconfirmed):_ Baram's dragons reshaped the land when they laid waste to the kingdom — acid breath forming the swamp, etc. (The tundra is the result of Lady Dice's curse, not the dragons.) Add a serpent sigil or ruined statue to each region to seed the history.

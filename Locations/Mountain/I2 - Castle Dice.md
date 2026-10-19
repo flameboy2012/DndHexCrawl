@@ -9,6 +9,8 @@ Read to the players when they first approach
 
 Castle Dice is home to [[Lady Dice]]. It is her Lair and will allow her to take lair actions while she is present.
 
+Castle Dice is built atop the ruins of an ancient **temple to [[Beha]]**. The snake motifs found throughout the castle are relics of that temple. Most of the castle was built by Lady Dice's lich side: it began with the Soul Vault to protect her phylactery and grew as her humanity slipped.
+
 # Layout
 
 
@@ -33,11 +35,15 @@ A magical laboratory where arcane dice are crafted, each imbued with chaotic enc
 ## Ashen Forge
 A forge powered by dragonfire and molten rock, where cursed weapons and armor are forged for Lady Dice's elite champions.
 
+The dragonfire comes from a **captive dragon** chained beneath the forge. It is one of Baram's dragons. Baram is currently unaware, but would be furious if he found out.
+
 ## Cursed Dice Gallery
 A private collection of relic dice—each one an artifact representing victories, betrayals, or deaths Lady Dice has caused.
 
 ## Sanctum of Reflection
 A frozen mirror room where Lady Dice confronts the remnants of her past life and converses with the shades of who she once was.
+
+At its centre is a **cracked mirror** holding the lost half of Lady Dice's soul. It shows her reflection as she looked in life, a human woman, and speaks to whoever stands before it. A good place for the party to learn her true goal and her history.
 
 ## Garden of Withered Time
 A dead, snow-covered garden that exists in multiple temporal states—where plants bloom, decay, and regrow simultaneously. A meditative space.
@@ -53,6 +59,8 @@ Bio-magical labs where monstrous undead hybrids are grown—stitched from bones,
 ## Soul Vault
 A heavily warded chamber containing phylacteries—hers and those of lesser liches in her service—along with bound souls used for bargaining or punishment.
 
+Lady Dice's phylactery is a **die** holding part of her soul.
+
 ## Secret Entrance
 A massive stone door carved into the volcanic rock.
 
@@ -63,3 +71,5 @@ Beneath it, an inscription reads:
 "Fate is a gamble, odds ever shifting. Tell me, mortals: which number never loses?"
 
 You can see a slot in the snakes mouth as its eyes glean towards you.
+
+**Answer:** 20 — a critical success. To answer, a character puts their hand in the snake's mouth. A wrong answer and the snake bites: minor damage and the poisoned condition.

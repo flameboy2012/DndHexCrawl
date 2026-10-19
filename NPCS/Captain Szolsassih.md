@@ -2,6 +2,8 @@ _Yuan-ti Pirate Captain_
 
 Location: [[B9 – Pirate Camp]]
 
+The pirates landed in the region only a month ago, on the opposite side of the map from [[I2 - Castle Dice|Castle Dice]]. [[Lady Dice]] is unaware of them.
+
 Szolsassih and his crew are descendants of [[Beha]]'s yuan-ti followers who fled when Baram's dragons destroyed the kingdom. Their history has survived only in fragments.
 
 ## Wants
