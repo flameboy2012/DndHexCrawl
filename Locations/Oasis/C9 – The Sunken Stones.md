@@ -10,7 +10,7 @@ At high tide seawater floods the ring and only the tops of the stones show. At l
 The inner faces of the stones are carved with a single continuous mural, worn but readable. Walking the ring clockwise tells a story:
 1. A serpent king crowned with an ouroboros, worshipped by kneeling yuan-ti.
 2. The king reading from a great book, holding a rod aloft.
-3. The king and his army marching on a forest, toward a woman crowned in thorns and antlers (Queen Nellye).
+3. The king and his army marching on a forest, toward a woman crowned in thorns and antlers ([[Queen Nellye]]).
 4. The sky filled with dragons.
 5–11. These stones have been deliberately smashed. Only fragments of wings, fire and a falling crown survive.
 

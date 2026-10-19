@@ -12,7 +12,7 @@
 | [[A1 – The Granite Peaks]]          | Mountain (north)   | —             | —       | ✓          | —               |
 | [[B1 – The Ironspine Ridge]]        | Mountain (north)   | —             | —       | ✓          | —               |
 | [[C1 – The Stormcrown]]             | Mountain (north)   | —             | —       | ✓          | —               |
-| [[D1 – Jiaolong's Lair]]            | Mountain (north)   | Jiaolong      | ✓       | —          | ✓ *             |
+| [[D1 – Jiaolong's Lair]]            | Mountain (north)   | [[Jiaolong]]  | ✓       | —          | ✓ *             |
 | [[A2 – Thornshade Camp]]            | —                  | Thornshadow   | —       | —          | —               |
 | [[B2 – The Deepwood]]               | —                  | —             | —       | ✓          | —               |
 | [[C2 – The Goblin Lair]]            | —                  | Skull Splitta | ✓       | —          | ✓               |
@@ -61,21 +61,23 @@
 
 *Row 10 (A10–C10) is open sea: containment only, no notes and no XP. The pirate ship lies at anchor in B10 but is not explorable.*
 ## Swamp
-[[Swamp Random Encounters]]
+[[Swamp Random Encounters]] (includes swamp travel hazards and the Serpent Road causeway)
 
-| Location                   | Hidden |
-| -------------------------- | ------ |
-| [[E7 ]]                    |        |
-| [[F7]]                     |        |
-| [[G7]]                     |        |
-| [[D8]]                     |        |
-| [[E8 - Cult of Centipede]] |        |
-| [[F8 - Tomb of Beha]]      |        |
-| [[G8]]                     |        |
-| [[D9]]                     |        |
-| [[E9]]                     |        |
-| [[F9]]                     |        |
-| [[G9]]                     |        |
+| Hex & Title                        | Biome Border                     | NPC                       | Dungeon | Wilderness | Notable (2× XP) |
+| ---------------------------------- | -------------------------------- | ------------------------- | ------- | ---------- | --------------- |
+| [[E7 – The Rotting Quay]]          | Grasslands (north)               | —                         | —       | —          | —               |
+| [[F7 – The Wyrm's Ribcage]]        | Bushland (north)                 | —                         | —       | —          | ✓               |
+| [[G7 – The Gate of Heads]]         | Bushland (north), Jungle (east)  | —                         | —       | —          | —               |
+| [[D8 – The Lantern Grove]]         | Grasslands (north), Oasis (west) | Brannagh (dryad)          | —       | —          | —               |
+| [[E8 – Temple of a Thousand Legs]] | —                                | Connerath Glynt           | ✓       | —          | ✓               |
+| [[F8 - Tomb of Beha]]              | —                                | Callus (first visit only) | ✓       | —          | ✓               |
+| [[G8 – The Scaleback Warren]]      | Jungle (east)                    | Gethrak (lizard king)     | —       | ✓          | —               |
+| [[D9 – The Drowned Bazaar]]        | Oasis (west), Sea (south)        | —                         | —       | —          | —               |
+| [[E9 – The City of the Dead]]      | Sea (south)                      | Ankhessa (mummy)          | Minor   | —          | —               |
+| [[F9 – The Rotting Delta]]         | Sea (south)                      | —                         | —       | ✓          | —               |
+| [[G9 – The Croaking Flats]]        | Sea (south), Jungle (east)       | King Grubbo (bullywug)    | —       | ✓          | —               |
+
+*The swamp is the drowned ruin of Beha's capital, **Qahessra**, rotted by the corpse of a dragon (F7). The Serpent Road runs C8 → D8 → E8 → F8 → G7. Row 10 (D10–G10) is open sea: containment only, no notes and no XP.*
 ## Mountains
 [[Mountain Random Encounters]]
 

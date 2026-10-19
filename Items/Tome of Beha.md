@@ -15,4 +15,4 @@ Lady Dice wants to use the _wish_ spell to reverse her lichification. She knows 
 If the bearer attuned to the rod obtains the tome, the fragment of Beha inside the rod attempts to possess them. The rod and tome are drawn to each other over time.
 
 ## Who Wants It
-See [[Factions]]. [[Lady Dice]] (has it), Queen Nellye (wants it gone), and Beha himself.
+See [[Factions]]. [[Lady Dice]] (has it), [[Queen Nellye]] (wants it gone), and Beha himself.

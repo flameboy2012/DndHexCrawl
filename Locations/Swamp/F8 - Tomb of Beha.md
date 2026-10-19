@@ -1,3 +1,7 @@
+_Major Location / Dungeon_
+
+A barrow dug into the hill where Beha's palace once stood, in the heart of the drowned city of Qahessra. Beha's sealed corpse lies on level 3.
+
 ![[barrow.jpg]]
 
 1. Entrance Room - 4 skeletons
@@ -21,3 +25,5 @@
 17. fissure
 18. old chest - 100gp
 19. grand chamber - necromancer & 5 skeletons
+
+**NPC:** Callus (first visit only) **Dungeon:** ✓ **Links:** [[Beha]], [[Tome of Beha]], [[Rod of Beha]], [[E9 – The City of the Dead]]

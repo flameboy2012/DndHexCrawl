@@ -20,6 +20,9 @@ Near the tower lies a sand-scoured body in a pirate's sash: one of [[Captain Szo
 ## The Watchtower
 Digging out the top room takes 2 hours (and draws the bulette). Inside: a bronze signal mirror, tarnished green (50 gp), and a cracked clay tablet in old yuan-ti script. **DC 15 History or comprehend languages:** a watch report — _"Wings over the eastern garden. The king's acid... no, theirs. The water turns to rot."_
 
-_Idea (unconfirmed):_ this hints that the swamp to the east was formed by Baram's dragons' acid breath during the war (see [[Beha#Hints of the Kingdom]]). Drop the last line if you go another way.
+The tablet records the fall of Ysvarra the Black, one of Baram's dragons, whose body rotted the city into the swamp (see [[F7 – The Wyrm's Ribcage]]).
+
+## The Serpent Road
+The eastern edge of the dunes hides the start of Beha's old processional causeway, which runs east into the swamp. The wind uncovers a stretch of its paving every few days. See [[Swamp Random Encounters#The Serpent Road]].
 
 **NPC:** — **Dungeon:** — **Tags:** Wilderness, biome border (grassland north, swamp east), bulette, pirate scout, buried watchtower

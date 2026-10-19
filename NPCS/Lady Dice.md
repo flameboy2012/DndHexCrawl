@@ -50,12 +50,12 @@ None of the other servants know her true goal. If they find out, infighting brea
 She has no living agents in the southern regions.
 
 ## Relations
-- **Queen Nellye** — Indifferent. Respects the power of the fey, but doesn't trust them.
+- **[[Queen Nellye]]** — Indifferent. Respects the power of the fey, but doesn't trust them.
 - **Lady Hallowstride** — Aware of her, and careful not to be seen encroaching. Hallowstride mocks Dice's quest to be human again as foolish.
 - **[[Captain Szolsassih]]** — Unaware of the pirates.
 - **Drongo** — An annoying wizard trying to thwart her because she is an "evil lich". Currently a massive pain to her.
 - **Baram** — An old god past his time, better forgotten.
-- **Jiaolong** — Another pain: he blocks travel across the river. The sooner he's removed, the better.
+- **[[Jiaolong]]** — Another pain: he blocks travel across the river. The sooner he's removed, the better.
 
 ## Lady Dice and the Party
 - The party's interruption of Callus's ritual was their first encounter with her faction. For now she is only **watching** them.

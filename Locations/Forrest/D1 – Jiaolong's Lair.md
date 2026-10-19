@@ -6,4 +6,4 @@ The river that flows south through the grasslands — passing the Shattered Keep
 
 Approaching the lair without an offering of tribute is considered deeply unwise by those few who know of his existence. Thornshadow in A2 knows Jiaolong is there and has kept the secret deliberately, fearing what would happen if Naywich sent adventurers to slay him.
 
-**NPC:** Jiaolong (River Dragon) **Dungeon:** ✓ **Links:** E4 (Mother Dendra's Hovel), E5 (The Shattered Keep), A2 (Thornshade Camp)
+**NPC:** [[Jiaolong]] (River Dragon) **Dungeon:** ✓ **Links:** E4 (Mother Dendra's Hovel), E5 (The Shattered Keep), A2 (Thornshade Camp)
