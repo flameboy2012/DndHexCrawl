@@ -1,6 +1,6 @@
 ![[Lady Dice.png]]
 
-https://5e.tools/bestiary/lich-mm.html
+https://5e.tools/bestiary.html#lich_mm
 
 _Lich / Divination Wizard / Mistress of [[I2 - Castle Dice]]_
 

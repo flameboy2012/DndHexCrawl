@@ -48,19 +48,18 @@
 | [[C7 – The Sandgrass Flats]]   | Oasis (south)  | —                 | —       | ✓          | —               |
 | [[D7 – The Seeping Margin]]    | Swamp (east)   | —                 | —       | ✓          | —               |
 ## Oasis 
-[[Beach Random Encounters]]
+[[Oasis Random Encounters]]
 
-| Hex & Title                     | Biome Border                     | NPC                    | Dungeon | Wilderness |
-| ------------------------------- | -------------------------------- | ---------------------- | ------- | ---------- |
-| [[A8 – The Sandveil Approach]]  | Grasslands (north)               | —                      | —       | ✓          |
-| [[B8 – The Palm Oasis]]         | Grasslands (north)               | —                      | —       | —          |
-| [[C8 – The Dune Wastes]]        | Grasslands (north), Swamp (east) | —                      | —       | ✓          |
-| [[A9 – The Pyramid of Beha]]    | —                                | [[Beha]]               | ✓       | —          |
-| [[B9 – Pirate Camp]]            | —                                | [[Captain Szolsassih]] | —       | —          |
-| [[C9 – The Sunken Stones]]      | Swamp (east)                     | —                      | —       | ✓          |
-| [[A10 – The Western Shore]]     | Sea (south)                      | —                      | —       | ✓          |
-| [[B10 – The Corsair Anchorage]] | Sea (south)                      | —                      | —       | —          |
-| [[C10 – The Scaleback Cliffs]]  | Sea (south), Swamp (east)        | —                      | —       | ✓          |
+| Hex & Title                    | Biome Border                     | NPC                    | Dungeon | Wilderness | Notable (2× XP) |
+| ------------------------------ | -------------------------------- | ---------------------- | ------- | ---------- | --------------- |
+| [[A8 – The Sandveil Approach]] | Grasslands (north)               | —                      | —       | ✓          | —               |
+| [[B8 – The Dry Well]]          | Grasslands (north)               | Hadra Sunmantle        | —       | —          | —               |
+| [[C8 – The Dune Wastes]]       | Grasslands (north), Swamp (east) | —                      | —       | ✓          | —               |
+| [[A9 – The Pyramid of Beha]]   | —                                | [[Beha]]               | ✓       | —          | ✓               |
+| [[B9 – Pirate Camp]]           | —                                | [[Captain Szolsassih]] | —       | —          | —               |
+| [[C9 – The Sunken Stones]]     | Swamp (east), Sea (south)        | —                      | Minor   | —          | —               |
+
+*Row 10 (A10–C10) is open sea: containment only, no notes and no XP. The pirate ship lies at anchor in B10 but is not explorable.*
 ## Swamp
 [[Swamp Random Encounters]]
 

@@ -29,7 +29,7 @@ For full details, read `NPCS/Beha.md`, `NPCS/Lady Dice.md`, `NPCS/Factions.md`, 
 | `NPCS/` | NPC and faction notes. `Factions.md` is the faction overview. Images in `NPCS/Images/`. |
 | `Items/` | Artifacts and notable magic items. |
 | `Questions/` | Worldbuilding question files the DM answers (see Workflow). |
-| `Random Encounters/` | d12 encounter table per region. Oasis uses `Beach Random Encounters.md`. |
+| `Random Encounters/` | d12 encounter table per region. Oasis uses `Oasis Random Encounters.md`. |
 | `Rules/` | House rules: `Travel.md`, `Weather.md`, `Random Encounters.md`, `Exploration XP.md`. |
 | `Exploration Tracker.md` / `.html` | Printable checklist of hexes explored per region. The HTML is a print version of the same tracker. |
 | `TODO.md` | DM's to-do list of regions and content still to build. |
@@ -42,7 +42,8 @@ Bushland and Jungle have no notes yet.
 - **Hex IDs** are column letter + row number (`A9`, `F8`, `I2`). File names are `<Hex> – <Title>.md`. Most use an **en dash** (`–`), but some Swamp and Mountain notes use a hyphen (`F8 - Tomb of Beha.md`, `I2 - Castle Dice.md`). Match the existing file name exactly when linking.
 - **Links** are Obsidian wikilinks: `[[Note Name]]`, `[[Note|alias]]`, `[[Note#Heading]]`. Images are embedded with `![[image.png]]`.
 - **Hex note format** (Grassland/Forest style): an italic type line (`_Major Location / Dragon Lair_`), descriptive prose, then a footer like `**NPC:** … **Dungeon:** ✓ **Links:** …` or `**Tags:** …`.
-- **Stat blocks** are linked to 5e.tools rather than copied (e.g. `https://5e.tools/bestiary/lich-mm.html`).
+- **Read-aloud text** (Oasis onward): put what the DM reads to players on first arrival in a `> [!quote] Read Aloud` callout right after the type line. Write it in second person, covering only what the party can see, hear and smell, with no secrets. Put everything else under `## DM Notes`.
+- **Stat blocks** are linked to 5e.tools rather than copied (e.g. `https://5e.tools/bestiary.html#lich_mm`). Use the hash format: `bestiary.html#` + the exact 5e.tools name in lower case, with spaces as `%20` and hyphens and brackets kept, then `_` + the source (e.g. `https://5e.tools/bestiary.html#yuan-ti%20malison%20(type%201)_mm`). Items work the same way (`https://5e.tools/items.html#staff%20of%20power_dmg`). Don't use the `bestiary/<slug>.html` pages: they hang on loading. 5e.tools blocks curl behind Cloudflare, so check new links in the browser.
 - **Exploration XP** is awarded per hex by tier (Early 50 / Mid 250 / Late 500, ×2 for notable sites). See `Rules/Exploration XP.md`.
 - Mark ideas the DM hasn't confirmed as `_Idea (unconfirmed):_` rather than writing them as canon.
 
